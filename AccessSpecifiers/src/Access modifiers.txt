@@ -1,0 +1,17 @@
+Access specifiers or modifiers:
+Default:
+	Anything declared in default is only visible inside the package.
+
+Public:
+	Anything declared in public can be accessed by any class inside the project folder. It can
+be accessed by the classes in other packages.
+
+Protected:
+	Anything declared in protected is accessible only by the sub-class.
+
+Private:
+	Anything declared in private is accessible within the class. Even not accessible by the
+subclass and instance of the class.
+
+note:
+	All modifiers can be access any where inside the project by the getters().

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Data Structures/Array Lists/Array Lists.iml" filepath="$PROJECT_DIR$/Data Structures/Array Lists/Array Lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calendar/Calendar.iml" filepath="$PROJECT_DIR$/Calendar/Calendar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS/CopyObject/CopyObject.iml" filepath="$PROJECT_DIR$/OOPS/CopyObject/CopyObject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataBase/DataBase.iml" filepath="$PROJECT_DIR$/DataBase/DataBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DateTime/DateTime.iml" filepath="$PROJECT_DIR$/DateTime/DateTime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data Structures/DynamicArray/DynamicArray.iml" filepath="$PROJECT_DIR$/Data Structures/DynamicArray/DynamicArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS/Polymorphism/DynamicPolymorphism/DynamicPolymorphism.iml" filepath="$PROJECT_DIR$/OOPS/Polymorphism/DynamicPolymorphism/DynamicPolymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/OOPS/Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FILE/FILE.iml" filepath="$PROJECT_DIR$/FILE/FILE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileReader/FileReader.iml" filepath="$PROJECT_DIR$/FileReader/FileReader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileWrite/FileWrite.iml" filepath="$PROJECT_DIR$/FileWrite/FileWrite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS/Interface/Interface.iml" filepath="$PROJECT_DIR$/OOPS/Interface/Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaAudio/JavaAudio.iml" filepath="$PROJECT_DIR$/JavaAudio/JavaAudio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaGUI/JavaGUI.iml" filepath="$PROJECT_DIR$/JavaGUI/JavaGUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaPackages/JavaPackages.iml" filepath="$PROJECT_DIR$/JavaPackages/JavaPackages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS/Polymorphism/Polimorphism/Polimorphism.iml" filepath="$PROJECT_DIR$/OOPS/Polymorphism/Polimorphism/Polimorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Serialisation/Serialisation and Desirialisation/Serialisation and Desirialisation.iml" filepath="$PROJECT_DIR$/Serialisation/Serialisation and Desirialisation/Serialisation and Desirialisation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Serialisation/Serialization/Serialization.iml" filepath="$PROJECT_DIR$/Serialisation/Serialization/Serialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data Structures/Stack/Stack.iml" filepath="$PROJECT_DIR$/Data Structures/Stack/Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringBuffer/StringBuffer.iml" filepath="$PROJECT_DIR$/StringBuffer/StringBuffer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TightCouple/TightCouple.iml" filepath="$PROJECT_DIR$/TightCouple/TightCouple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tokenizer/Tokenizer.iml" filepath="$PROJECT_DIR$/Tokenizer/Tokenizer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WrapperClass/WrapperClass.iml" filepath="$PROJECT_DIR$/WrapperClass/WrapperClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java tutorials intellij.iml" filepath="$PROJECT_DIR$/.idea/java tutorials intellij.iml" />
+    </modules>
+  </component>
+</project>
