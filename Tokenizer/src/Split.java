@@ -3,8 +3,8 @@ public class Split {
         String sentence = "https://www.youtube.com/split";
         String[] str = sentence.split(
                 ":|\\//" +
-                "|\\." +
-                "|\\/"
+                        "|\\." +
+                        "|\\/"
         );// split can be used for using multiple delimiters
         for (int i = 0; i < str.length; i++) {
             String word = str[i];
@@ -16,7 +16,6 @@ public class Split {
             if (!string.equals("")) {
                 System.out.println(string);
             }
-
         }
     }
 
