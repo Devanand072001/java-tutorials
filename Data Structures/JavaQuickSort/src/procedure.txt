@@ -1,0 +1,27 @@
+1. Set pivot as end (finding correct position of the pivot element).
+2. two indices - i, j
+    i => before starting index (start - 1)
+    j => starting index of array
+3. Condition:
+    if j >= pivot
+        ignore
+        j++;
+    if j < pivot
+        i++;
+        swap(i, j)
+    repeat until j = pivot;
+
+4. After reaching pivot (j = pivot).
+     if j = pivot
+        i++;
+        swap(i, j) [swapping i, pivot]
+     Now the pivot is in right position.
+     elements in the left < pivot < elements in the right.
+
+5. Divide the array into 2 partitions.
+    partition 1: elements left to the pivot.
+    partition 2: elements right to the pivot.
+
+6. pass the partitions as the arguments in the quickSort method.
+
+
