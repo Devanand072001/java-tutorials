@@ -1,4 +1,4 @@
-import java.lang.reflect.Array;
+
 import java.util.*;
 
 public class Main {
@@ -16,7 +16,7 @@ public class Main {
      * Space complexity:
      *   O(log(n)) */
     public static void main(String[] args) {
-        int[] array = randomArray(8);
+        int[] array = randomArray(10);
         System.out.println("Array before quick sort: ");
         System.out.println(Arrays.toString(array));
         quickSort(array, 0, array.length - 1);
@@ -47,10 +47,9 @@ public class Main {
         int temp = array[i];
         array[i] = array[end];
         array[end] = temp;
-        // fixing pivot at correct postion
+        // fixing pivot at correct position
         return i;
     }
-
 
     private static int[] randomArray(int size) {
         int[] randomArray = new int[size];
