@@ -15,7 +15,7 @@ public class Main {
         marks.add(2.33);
         System.out.println(marks);
         System.out.println(isInserted);
-        System.out.println("\npeeek() " + marks.peek());
+        System.out.println("\npeek() " + marks.peek());
 
 //        iteration
         while (!marks.isEmpty()) {
