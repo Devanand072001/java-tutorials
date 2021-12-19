@@ -1,0 +1,60 @@
+short => 2 bytes (16 bit)
+range = −2¹⁵ to 2¹⁵-1
+eg:short a;
+default value = 0;
+
+byte=> 1 byte (8 bit)
+range = -2⁷ to 2⁷-1 (-128 to 127)
+eg:byte a = 88;
+default value = 0;
+
+
+int=>4 byte (32 bit )
+range = -2³¹ to 2³¹-1
+eg:int a= 88_888;
+default value = 0;
+
+long=> 8 byte (64 bit)
+range = -2⁶³ to 2⁶³-1
+eg:long a= 98_72_22_255L ;
+default value = 0L;
+
+
+
+float => 4 byte -> 32 bits (IEEE 754 floating point, singl precision)
+range = can store 6-7 digits after decimal point
+eg:float a= 8.48978f;
+Note: Remember to append “f” or "F" to the number before storing it in a float variable to make sure that it is not interpreted as a double. 
+
+double =>8 byte - > 64 bits (IEEE 754 floating point, double precision)
+range =can store 15 digits after the decimal point 
+eg:double a= 92.43434;
+"d" or "D" is optional.
+default decimal declaration is doubles 
+
+char = 16 bit
+range = 0 to 65,535
+ '\u0000' to '\uffff'
+get character of ascii value
+eg:char a=65;
+output:
+a
+
+
+int a; //declaration
+a = 33; // assignment
+int a = 44; // initialisation
+
+enum 
+enum Level {
+    LOW,
+    MEDIUM,
+    HIGH
+  }
+  Level myVar = Level.MEDIUM; 
+  System.out.println(myVar);
+enums are predefined unchangeable variables  
+  
+
+
+
